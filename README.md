@@ -3,7 +3,13 @@
 by
 Braulio V. S. Vinces, Robson L. F. Cordeiro.
 
-> Manuscript submitted for evaluation to the Journal of Information and Data Management.
+# To Cite
+    @INPROCEEDINGS{MCCATCH2024,
+      author={Braulio V. Sánchez Vinces, Robson L. F. Cordeiro},
+      title={GOOST: Grid-Ordering for Outlier Detection in Massive Data Streams},
+      booktitle={2024 Journal of Information and Data Management (JIDM)},
+      year={2024}
+    }
 
 # Abstract
 
